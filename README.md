@@ -8,6 +8,7 @@
 
 <p align="center">
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-functionalities">Functionalities</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tech">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-contact">Contact</a><br><br>
 </p>
@@ -27,6 +28,15 @@ The project aims to add and remove Github users.
 When adding a profile, it shows the user, the number of repositories and followers of the favorite profiles.
 If you try to add an existing user, the application reports an error message.
 Or if you try to add a non-existent profile on Github, the application will inform you. And when requesting the removal of a user, you will be asked for confirmation.
+
+</div>
+
+<div id="-functionalities">
+
+## :gear: Functionalities
+
+- [x] Add user
+- [x] Remove user
 
 </div>
 
